@@ -1,0 +1,9 @@
+#save-button{
+    float: right;
+}
+#paragraph{
+    border:solid 1px grey;
+}
+#paragraph.hover{
+    border:solid 1px #218838;
+}

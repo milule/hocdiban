@@ -1,0 +1,27 @@
+.comment-input-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    padding: 10px 20px;
+}
+
+.comment-button-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.comment-button-container button {
+    font-size: 1.3rem;
+}
+
+.comment-input-container input {
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+
+.comment-username {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

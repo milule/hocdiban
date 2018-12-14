@@ -1,0 +1,96 @@
+
+.navbar-custom.navbar{
+    box-shadow: 0px 3px grey;
+    padding: 0 1rem;
+    z-index: 1;
+}
+.navbar-custom .navbar-brand{
+    width: 18rem;
+    height: auto;
+}
+.navbar-custom ul{
+    margin-top: 1rem;
+}
+.navbar-custom a:hover{
+    color: darkgreen;
+    text-decoration: none;
+}
+.navbar-custom a.active{
+    border-bottom: 0.2rem solid orange;
+}
+.navbar-custom .nav-link{
+	color: green;
+	font-size: 25px; 
+	font-weight: bold;
+}
+.navbar-custom .nav-item.active{
+    border-bottom: 2px solid orange;  
+}
+.navbar-custom .navbar-nav .nav-item.nav-header.active .nav-link{
+    color: green;
+}
+.navbar-custom .btn{
+    display: inline-block;
+    min-width: 123px;
+    font-size: 16px;
+    font-weight: bold;
+    height: 50px;
+}
+.navbar-custom .btn:first-child{
+    background: green;
+    color: white;
+    margin-right: 10px;
+    margin-left: 20px;
+    padding-top: 0.5rem;
+}
+.navbar-custom .btn:first-child:hover{
+    background: darkgreen;
+}
+.navbar-custom .btn:last-child{
+    background: white;
+    color: green;
+    margin-right: 10px;
+    border: 2px solid green
+}
+.navbar-custom .btn:last-child:hover{
+    background: green;
+    color: white;
+}
+.navbar-custom .user-info{
+    margin-left: 3rem;
+}
+.navbar-custom .user-info .fas{
+    line-height: 1.3;
+    color: darksalmon
+}
+.navbar-custom .user-info .btn{
+    background: transparent;
+    min-width: auto;
+    color: lightslategray;
+    margin-left: -0.5rem;
+    margin-right: 0;
+}
+.navbar-custom .user-info .btn:focus{  
+    outline: 0;
+    box-shadow: none!important;
+}
+.navbar-custom .user-info .btn:hover{  
+    background: transparent;
+}
+.user-info i .dropdown-menu{
+    position: relative;
+    left: auto;
+    right: 1.5rem;
+    top: auto;
+}
+.user-info .dropdown-menu i.fa-custom1{
+    padding-right: 0.5rem;
+}
+.user-info .dropdown-menu i.fa-custom2{
+    padding-right: 0.7rem;
+}
+.user-info .dropdown-item{
+    padding-left: 0.8rem;
+    padding-right: 0.7rem;
+}
+

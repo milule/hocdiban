@@ -1,0 +1,35 @@
+
+.exam-avatar, .exam-avatar img {
+    width: 100%;
+    max-width: 120px;
+}
+
+.exam-info {
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap:wrap;
+}
+
+.exam-name {
+    width: 100%;
+    padding-bottom: 9%;
+    font-size: 1.2em;
+    user-select: none;
+}
+
+
+.exam-container {
+    padding: 2%;
+    width: 20%;
+    min-width: 180px;
+    display:flex;
+    flex-wrap: wrap;
+
+    margin: auto 2%;
+}
+
+.exam-container:hover {
+    box-shadow: -3px 3px 15px #00000042;
+}

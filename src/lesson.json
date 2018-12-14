@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "12 thì cơ bản",
+        "type": "Tenses",
+        "imLevel": "5",
+        "content": "<p>1) HTĐ: is/am/are + past participle</p>\n<p>2) HTTD: is/ am/are + being + p.p</p>\n<p>3) QKĐ: was/were + p.p</p>\n<p>4) QKTD: was/ were + being + p.p</p>\n<p>5) HTHT: have/has + been + p.p</p>\n<p>6) QKHT: had + been + p.p</p>\n<p>7) TLĐ: will/shall + be + p.p</p>\n<p>8) can/could/may/might/ought to/should/would/must/have to/has to/used to/be likely to/be going to + be + p.p</p>"
+    },
+    {
+        "id": 2,
+        "title": "Câu điều kiện",
+        "type": "Conditional sentences",
+        "imLevel": "2",
+        "content": "<table style=\"border-collapse: collapse; width: 100%; height: 72px;\" border=\"1\"><tbody><tr style=\"height: 18px;\"><td style=\"width: 33.3333%; text-align: center; height: 18px;\"><strong>Types</strong></td><td style=\"width: 33.3333%; text-align: center; height: 18px;\"><strong>Main clause</strong></td><td style=\"width: 33.3333%; text-align: center; height: 18px;\"><strong>If clause</strong></td></tr><tr style=\"height: 18px;\"><td style=\"width: 33.3333%; text-align: center; height: 18px;\">present possible</td><td style=\"width: 33.3333%; text-align: center; height: 18px;\">Tương lai</td><td style=\"width: 33.3333%; text-align: center; height: 18px;\">Hiện tại</td></tr><tr style=\"height: 18px;\"><td style=\"width: 33.3333%; text-align: center; height: 18px;\">present unreal</td><td style=\"width: 33.3333%; text-align: center; height: 18px;\">Would/could/should + V</td><td style=\"width: 33.3333%; text-align: center; height: 18px;\">Qu&aacute; khứ đơn(be + p.p)</td></tr><tr style=\"height: 18px;\"><td style=\"width: 33.3333%; text-align: center; height: 18px;\">past unreal</td><td style=\"width: 33.3333%; text-align: center; height: 18px;\">Would/could/should + have + p.p</td><td style=\"width: 33.3333%; text-align: center; height: 18px;\">Had + p.p</td></tr></tbody></table>"
+    },
+    {
+        "id": 3,
+        "title": "Wish",
+        "type": "Wish",
+        "imLevel": "3",
+        "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">1) S + wish + S + =&gt; would + V</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">&nbsp;&nbsp;&nbsp;&nbsp;=&gt;Could + V</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">&nbsp;&nbsp;&nbsp;&nbsp;=&gt;QKĐ (be: were)</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">2) S + wish + S + had + p.p</p>"
+    },
+    {
+        "id": 4,
+        "title": "Gerund: V_ing",
+        "type": "verbs",
+        "imLevel": "4",
+        "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">* L&agrave;m S, O, C</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">* Sau giới từ</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">* Sau 1 số động từ sau đ&acirc;y: admit, consider, delay, deny, like, joy, finish, mind, miss, practice, avoid, risk, remember, stop, regret, suggest, start, begin, hate, continue, keep, dislike, forget &hellip;</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">* Sau 1 số cụm từ sau: can&rsquo;t stand, can&rsquo;t help, don&rsquo;t mind, it&rsquo;s no use, be worth, be busy, what about, how about, be bored with, be fed up with</p><ol style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: #303030; font-family: Roboto, sans-serif;\"><li style=\"box-sizing: border-box;\">Because + clause (nghĩa l&agrave; : v&igrave;)</li></ol><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">Because of + phrase</p><ol style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: #303030; font-family: Roboto, sans-serif;\"><li style=\"box-sizing: border-box;\">Although/though/even though + clause</li></ol><p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #303030; font-family: Roboto, sans-serif;\">In spite of /despite + phrase (nghĩa l&agrave;: d&ugrave;)</p><ol style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: #303030; font-family: Roboto, sans-serif;\"><li style=\"box-sizing: border-box;\">It&rsquo;s time &hellip;. + clause (V_ed)</li></ol>"
+    }
+]

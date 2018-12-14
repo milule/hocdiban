@@ -1,0 +1,140 @@
+.home-page{
+    flex-grow: 1;
+}
+/*Home page body1*/
+.homebody1 {
+    padding-top: 5em;
+}
+.row.row0{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+.homebody1 hr{
+    margin-right: 4rem;
+    margin-left: 4rem;
+}
+.col-1{
+    text-align: left;
+    padding-left: 8rem;
+    display: flex;
+    align-items: left;
+}
+.img-custom{
+    width: 100%;
+    height: auto;
+    padding-right: 0;
+}
+.text-col1-custom h2{
+    font-size: 50px;
+    margin-left: -2px;
+    color:black;
+}
+.text-col1-custom{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+.text-col1-custom p{
+    font-size: 18px;
+}
+.row .icon{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* height: auto;
+    column-gap: 500000px; */
+}
+.icon{
+    padding-top: 3rem;
+}
+.icon i::before{
+    border: 1px solid darkgreen;
+    background-color: #FFFFFF;
+    height: 100px;
+    border-radius:50%;
+    padding: 18px 11px;
+    color: darkgreen;
+}
+.text-homepage{
+    padding-left: 10px;
+    text-align: justify;
+}
+.img-homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 2;
+}
+/*Home page body2*/
+.homebody2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.homebody2 p {
+    color: gray;
+}
+.title-content{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 20px;
+    flex: 1;
+}
+.title-content h2{
+    font-size: 50px;
+}
+.row-intro{
+    display: flex;
+    flex-direction: column;
+    margin-top: -1.5rem;
+}
+.row1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    text-align: center;
+}
+.row1 img{
+    padding-bottom: 1rem;
+}
+.fas-custom{
+    padding-bottom: 1.5rem;
+    margin-top: 1rem;
+}
+.homebody2 h2{
+    color:black;
+}
+.img-learn{
+    width: 12rem;
+    height: auto;
+}
+@media only screen and (max-width: 640px) {
+    .img-learn{
+        width: 8rem;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 640px)  {
+    .row.row0{
+        flex-direction: column;
+    }
+    .text-col1-custom h2{
+        text-align: center;
+    }
+    .text-col1-custom p{
+        text-align: justify;
+    }
+}
+
+@media screen and (min-width: 641px)  {
+    .img-homepage{
+        flex: 1;
+    }
+}
